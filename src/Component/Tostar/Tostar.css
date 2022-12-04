@@ -1,0 +1,12 @@
+
+.toaster-btn {
+    padding: 15px;
+    background-color: rgb(140, 76, 204);
+    color: white;
+    font-size: 18px;
+    font-weight: 600;
+    margin-top: 20px;
+    margin-left: 50px;
+    border: none;
+    border-radius: 5px;
+}
